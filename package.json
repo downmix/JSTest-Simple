@@ -1,0 +1,11 @@
+{
+  "name": "downmix-typeCk",
+  "version": "0.0.1",
+  "description": "javascript type check library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
